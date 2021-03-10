@@ -15,8 +15,8 @@
 
         <ul class="icon-list">
             <li><i class="far fa-calendar-alt"></i> {{ .Site.Params.course.year }}</li>
-            <li><i class="far fa-twitter"></i> {{ .Site.Params.course.twitter }}</li>
-            <li><i class="far fa-github"></i> {{ .Site.Params.course.github }}</li>
+            <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ .Site.Params.course.twitter }}" target="_blank" rel="noopener"> @{{ .Site.Params.course.twitter }}</a></li>
+            <li><i class="fab fa-github"></i> <a href="https://github.com/{{ .Site.Params.course.github }}" target="_blank" rel="noopener"> @{{ .Site.Params.course.github }}</a></li>
             <li><i class="fas fa-university"></i> {{ .Site.Params.course.location }}</li>
             {{ if isset .Site.Params.course "slack" }}<li><i class="fab fa-slack"></i> <a href="{{ .Site.Params.course.slack }}" target="_blank" rel="noopener">Slack</a></li>{{ end }}
         </ul>
