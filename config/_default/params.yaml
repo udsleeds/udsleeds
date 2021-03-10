@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-author: Roger Beecham
+author: Vikki Houlden
 
 leader:
   name: Vikki Houlden
@@ -54,10 +54,10 @@ school:
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image: "vis-for-gds.png"
+sharing_image: "leedslogo.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "rjbeecham"
+twitter: "vikkihouldenphd"
 
 # Site header
 
