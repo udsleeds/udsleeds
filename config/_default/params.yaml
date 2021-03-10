@@ -7,7 +7,7 @@
 
 theme: ocean
 day_night: true
-font: 'robotocondensed'
+font: "robotocondensed"
 font_size: L
 
 # SEO
