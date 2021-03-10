@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Urban Data Science @ Leeds
+title: UDS @ Leeds
 baseurl: 'https://udsleeds.netlify.app/' 
 copyright: '2021 Vikki Houlden'
 
