@@ -8,7 +8,7 @@ weight: 10
 title: "Visualization for Geographic Data Science"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media: vis-for-gds.png
+hero_media: leedslogo.png
 
 design:
   background:
