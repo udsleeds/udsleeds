@@ -4,7 +4,7 @@
 
         <ul class="icon-list">
             <li><i class="fas fa-user"></i> <a href="{{ .Site.Params.leader.url }}" target="_blank" rel="noopener"> {{ .Site.Params.leader.name }}</a></li>
-            <li><i class="fas fa-university"></i> {{ .Site.Params.leader.office }}</li>
+            <li><i class="fas fa-building"></i> {{ .Site.Params.leader.office }}</li>
             <li><i class="fas fa-envelope"></i> <a href="mailto:{{ .Site.Params.leader.email }}"> {{ .Site.Params.leader.email }}</a></li>
             <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ .Site.Params.leader.twitter }}" target="_blank" rel="noopener"> @{{ .Site.Params.leader.twitter }}</a></li>
         </ul>
@@ -14,9 +14,9 @@
         <h3>Course details</h3>
 
         <ul class="icon-list">
-            <li><i class="far fa-calendar"></i> {{ .Site.Params.course.days }}</li>
-            <li><i class="far fa-calendar-alt"></i> {{ .Site.Params.course.dates }}</li>
-            <li><i class="far fa-clock"></i> {{ .Site.Params.course.time }}</li>
+            <li><i class="far fa-calendar-alt"></i> {{ .Site.Params.course.year }}</li>
+            <li><i class="far fa-twitter"></i> {{ .Site.Params.course.twitter }}</li>
+            <li><i class="far fa-github"></i> {{ .Site.Params.course.github }}</li>
             <li><i class="fas fa-university"></i> {{ .Site.Params.course.location }}</li>
             {{ if isset .Site.Params.course "slack" }}<li><i class="fab fa-slack"></i> <a href="{{ .Site.Params.course.slack }}" target="_blank" rel="noopener">Slack</a></li>{{ end }}
         </ul>
