@@ -20,40 +20,45 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+author: Roger Beecham
+
+instructor:
+  name: Roger Beecham
+  email: r.j.beecham@leeds.ac.uk
+  url: "http://www.roger-beecham.com/"
+  twitter: rjbeecham
+  github: rogerbeecham
+  office: "10.139 Manton Building"
+  contact_policy: >-
+   Questions to do with the substantive aspects of the module should be directed to the &#35;general channel of the course Slack in the first instance. For matters such as absences, extensions, email me: r.j.beecham@leeds.ac.uk.
+course:
+  number: "GEOG5009M"
+  semester: "Spring 2021"
+  days: "Wednesdays"
+  time: "10:00 - 12:00"
+  location: "ODL"
+  dates: "25th May - 13th Jul"
+  github: "rogerbeecham/vis-for-gds"
+  copyrightYear: "2021"
+
+university:
+  name: University of Leeds
+  url: "https://www.leeds.ac.uk/"
+
+school:
+  name: School of Geography
+  url: "https://environment.leeds.ac.uk/geography"
+
+
+############################
+## Social
+############################
+
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image: "vis-for-gds.png"
+
+# Twitter username (without @). Used when a visitor shares your site on Twitter.
+twitter: "rjbeecham"
 
 # Site header
 
