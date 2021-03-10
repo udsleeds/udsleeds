@@ -1,12 +1,12 @@
 <div class="row">
     <div class="col-md-4">
-        <h3>Instructor</h3>
+        <h3>Leader</h3>
 
         <ul class="icon-list">
-            <li><i class="fas fa-user"></i> <a href="{{ .Site.Params.instructor.url }}" target="_blank" rel="noopener"> {{ .Site.Params.instructor.name }}</a></li>
-            <li><i class="fas fa-university"></i> {{ .Site.Params.instructor.office }}</li>
-            <li><i class="fas fa-envelope"></i> <a href="mailto:{{ .Site.Params.instructor.email }}"> {{ .Site.Params.instructor.email }}</a></li>
-            <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ .Site.Params.instructor.twitter }}" target="_blank" rel="noopener"> @{{ .Site.Params.instructor.twitter }}</a></li>
+            <li><i class="fas fa-user"></i> <a href="{{ .Site.Params.leader.url }}" target="_blank" rel="noopener"> {{ .Site.Params.leader.name }}</a></li>
+            <li><i class="fas fa-university"></i> {{ .Site.Params.leader.office }}</li>
+            <li><i class="fas fa-envelope"></i> <a href="mailto:{{ .Site.Params.leader.email }}"> {{ .Site.Params.leader.email }}</a></li>
+            <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/{{ .Site.Params.leader.twitter }}" target="_blank" rel="noopener"> @{{ .Site.Params.leader.twitter }}</a></li>
         </ul>
     </div>
 
@@ -25,6 +25,6 @@
     <div class="col-md-4 contact-policy">
         <h3>Contacting me</h3>
 
-        <p>{{ .Site.Params.instructor.contact_policy | markdownify}}</p>
+        <p>{{ .Site.Params.leader.contact_policy | markdownify}}</p>
     </div>
 </div>
