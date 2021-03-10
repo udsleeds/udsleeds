@@ -28,17 +28,16 @@ leader:
   url:  "https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden"
   twitter:  vikkihouldenphd
   github: vikkimaps
-  office: "Leeds University"
+  office: " Manton Building"
   contact_policy: >-
    Feel free to email me: v.houlden@leeds.ac.uk.
 course:
   number: "GEOG5009M"
   semester: "Spring 2021"
-  days: "Wednesdays"
-  time: "10:00 - 12:00"
-  location: "ODL"
-  dates: "25th May - 13th Jul"
-  github: "github.com/udsleeds"
+  year: "Wednesdays"
+  github: " github.com/udsleeds"
+  twitter: uds-leeds
+  location: " University of Leeds"
   copyrightYear: "2021"
 
 university:
