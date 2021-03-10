@@ -5,7 +5,7 @@ headless: true
 active: true
 weight: 10
 
-title: "Visualization for Geographic Data Science"
+title: "Urban Data Science @ Leeds"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media: leedslogo.png
@@ -20,7 +20,7 @@ design:
     text_color_light: false
 
 cta_note:
-  label: Summer 2021<br>School of Geography<br>University of Leeds
+  label: School of Geography<br>University of Leeds
 ---
 
-**GEOG5009M**
+**New MSc for 2021/22**
