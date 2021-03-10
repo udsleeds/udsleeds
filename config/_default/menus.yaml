@@ -23,3 +23,15 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
+modules:
+  - name: Overview
+    weight: 1
+
+timetable:
+  - name: Overview
+    weight: 1
+
+reading:
+  - name: Overview
+    weight: 1
