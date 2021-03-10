@@ -23,14 +23,14 @@ twitter: ''
 author: Roger Beecham
 
 instructor:
-  name: Roger Beecham
-  email: r.j.beecham@leeds.ac.uk
-  url: "http://www.roger-beecham.com/"
-  twitter: rjbeecham
-  github: rogerbeecham
-  office: "10.139 Manton Building"
+  name: Vikki Houlden
+  email: v.houlden@leeds.ac.uk
+  url: "https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden"
+  twitter: vikkihoulenphd
+  github: vikkimaps
+  office: "Manton Building"
   contact_policy: >-
-   Questions to do with the substantive aspects of the module should be directed to the &#35;general channel of the course Slack in the first instance. For matters such as absences, extensions, email me: r.j.beecham@leeds.ac.uk.
+   Feel free to email me: r.j.beecham@leeds.ac.uk.
 course:
   number: "GEOG5009M"
   semester: "Spring 2021"
@@ -38,7 +38,7 @@ course:
   time: "10:00 - 12:00"
   location: "ODL"
   dates: "25th May - 13th Jul"
-  github: "rogerbeecham/vis-for-gds"
+  github: "github.com/udsleeds"
   copyrightYear: "2021"
 
 university:
