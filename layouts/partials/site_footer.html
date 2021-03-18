@@ -3,14 +3,16 @@
 
     <div class="row course-info">
         <div class="col-md-7">
-            <p font-size: 100px; style="text-align:left;" >
+            <p style="text-align:left; font-size: 30px;" >
                 <strong>{{ .Site.Params.course.name }}</strong><br>
-
+            </p>
+          
+            <p style="text-align:left; font-size: 20px">
                 <a href="{{ .Site.Params.university.url }}" target="_blank" rel="noopener">{{ .Site.Params.university.name }}</a> &emsp;&emsp;
                 <a href="{{ .Site.Params.school.url }}" target="_blank" rel="noopener">{{ .Site.Params.school.name }}</a>
             </p>
 
-            <p style="text-align:left; font-size: 50px">
+            <p style="text-align:left; font-size: 20px">
                 <a href="{{ .Site.Params.leader.url }}" target="_blank" rel="noopener"><i class="fas fa-user"></i>
                     {{ .Site.Params.leader.name }}</a> &emsp;&emsp;
                 <a href="mailto:{{ .Site.Params.leader.email }}"><i class="fas fa-envelope"></i>
