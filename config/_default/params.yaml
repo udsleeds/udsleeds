@@ -23,12 +23,12 @@ twitter: ''
 author: Vikki Houlden
 
 leader:
-  name: "   Vikki Houlden"
-  email:  "   v.houlden@leeds.ac.uk"
+  name: Vikki Houlden
+  email: v.houlden@leeds.ac.uk
   url:  "https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden"
-  twitter: "   vikkihouldenphd"
-  github: "   vikkimaps"
-  office: " Manton Building"
+  twitter: vikkihouldenphd
+  github: vikkimaps
+  office: Manton Building
   contact_policy: >-
    Feel free to email me: v.houlden@leeds.ac.uk.
 course:
@@ -37,7 +37,7 @@ course:
   year: "2021-22"
   github: "udsleeds"
   twitter: uds_leeds
-  location: " University of Leeds"
+  location: "University of Leeds"
   copyrightYear: "2021"
 
 university:
