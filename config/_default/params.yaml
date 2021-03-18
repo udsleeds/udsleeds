@@ -32,8 +32,7 @@ leader:
   contact_policy: >-
    Feel free to email me: v.houlden@leeds.ac.uk.
 course:
-  number: "GEOG5009M"
-  semester: "Spring 2021"
+  number: "MSc Urban Data Science and Analytics"
   year: "2021-22"
   github: "udsleeds"
   twitter: uds_leeds
