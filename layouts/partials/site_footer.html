@@ -16,12 +16,6 @@
                 <a href="mailto:{{ .Site.Params.leader.email }}"><i class="fas fa-envelope"></i>
                     {{ .Site.Params.leader.email }}</a>
             </p>
-
-            <p>
-                <i class="far fa-calendar-alt"></i> {{ .Site.Params.course.days }} &emsp;&emsp;
-                <i class="far fa-clock"></i> {{ .Site.Params.course.time }} 
-                {{ if isset .Site.Params.course "location" }}<br><i class="fas fa-university"></i> {{ .Site.Params.course.location }}{{end}}
-            </p>
         </div>
 
         <div class="col-md-5 credits">
