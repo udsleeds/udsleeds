@@ -1,4 +1,3 @@
-  
 <footer>
     <hr>
 
@@ -12,22 +11,29 @@
             </p>
 
             <p>
-                <a href="{{ .Site.Params.leader.url }}" target="_blank" rel="noopener"><i class="fas fa-user"></i> &emsp;
+                <a href="{{ .Site.Params.leader.url }}" target="_blank" rel="noopener"><i class="fas fa-user"></i>
                     {{ .Site.Params.leader.name }}</a> &emsp;&emsp;
-                <a href="mailto:{{ .Site.Params.leader.email }}"><i class="fas fa-envelope"></i>&emsp;
+                <a href="mailto:{{ .Site.Params.leader.email }}"><i class="fas fa-envelope"></i>
                     {{ .Site.Params.leader.email }}</a>
             </p>
 
+            <p>
+                <i class="far fa-calendar-alt"></i> {{ .Site.Params.course.days }} &emsp;&emsp;
+                <i class="far fa-clock"></i> {{ .Site.Params.course.time }} 
+                {{ if isset .Site.Params.course "location" }}<br><i class="fas fa-university"></i> {{ .Site.Params.course.location }}{{end}}
+            </p>
         </div>
 
         <div class="col-md-5 credits">
-            <p>All content licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+            <p>All content licensed under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
             
-            <p>Content <i class="fab fa-creative-commons"></i> {{ .Site.Params.course.copyrightYear }} <a href="{{ .Site.Params.leader.url }}" target="_blank" rel="noopener">{{ .Site.Params.author }}</a></p>
+            <p>Content <i class="fab fa-creative-commons"></i> {{ .Site.Params.course.copyrightYear }} <a href="{{ .Site.Params.instructor.url }}" target="_blank" rel="noopener">{{ .Site.Params.author }}</a></p>
         
             {{- if .Site.Params.credits }}
             <p>{{ .Site.Params.credits | markdownify }}</p>
-            {{- end }}                    
+            {{- end }}
+        
+            <p>This site created with the <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> in <a href="https://bookdown.org/yihui/blogdown/" target="_blank" rel="noopener">blogdown</a> and <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>. </p>
             
             <p><a href="https://github.com/{{ .Site.Params.course.github }}" target="_blank" rel="noopener"><i class="fab fa-github"></i> View the source at GitHub.</a></p>
         </div>
