@@ -30,9 +30,9 @@ leader:
   github: vikkimaps
   office: Manton Building
   contact_policy: >-
-   Feel free to email me: v.houlden@leeds.ac.uk.
+   Feel free to email me: v.houlden@leeds.ac.uk
 course:
-  number: "MSc Urban Data Science and Analytics"
+  name: "MSc Urban Data Science and Analytics"
   year: "2021-22"
   github: "udsleeds"
   twitter: uds_leeds
