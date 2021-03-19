@@ -1,31 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vikki Houlden
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSc Urban Data Science and Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Leeds
+  url: https://www.leeds.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Urban Data Science
+- Analytics
+- Saving the World
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
+# education:
+ # courses:
+  #- course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
