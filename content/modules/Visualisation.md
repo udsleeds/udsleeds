@@ -11,3 +11,4 @@ type: book
 <b> Semester: </b> 1 <br> 
 <b> Compulsory: </b> No <br>
 <b> Stream: </b> Urban Analyst <br>
+<b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/geography/staff/1025/helen-durham" target="_blank"> Helen Durham </a> <br>
