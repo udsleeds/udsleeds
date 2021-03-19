@@ -1,5 +1,5 @@
 ---
-title: Data Science
+title: Data Science for Cities
 date: 2019-05-05
 weight: 2
 type: book
