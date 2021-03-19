@@ -15,3 +15,5 @@ type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
+
+Find all the information you need on the MSc Modules here
