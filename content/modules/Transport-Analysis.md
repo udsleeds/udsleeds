@@ -11,4 +11,5 @@ type: book
 <b> Semester: </b> 1 <br> 
 <b> Compulsory: </b> No <br>
 <b> Stream: </b> Urban Transport Analyst <br>
+<b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/transport/staff/936/dr-eva-heinen" target="_blank"> Eva Heinen</a> <br>
 
