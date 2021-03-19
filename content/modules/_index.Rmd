@@ -2,7 +2,7 @@
 title: "Modules"
 menu:
   modules:
-    parent: Modules
+    parent: Module Overview
     weight: 1
 type: docs
 weight: 1
