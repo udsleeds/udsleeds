@@ -1,11 +1,11 @@
 ---
-title: GEOG5410M Analysing Cities
+title: Analysing Cities
 date: 2019-05-05
 type: book
 ---
 
-<b> Module Code: </b> GEOG5410M 
-<b> Module Title: </b> Analysing Cities
-<b> Credits: </b> 15
-<b> Semester: </b> 1
-<b> Compulsory: </b> Yes
+<b> Module Code: </b> GEOG5410M <br>
+<b> Module Title: </b> Analysing Cities <br>
+<b> Credits: </b> 15 <br> 
+<b> Semester: </b> 1 <br> 
+<b> Compulsory: </b> Yes <br>
