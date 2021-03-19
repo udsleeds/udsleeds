@@ -14,7 +14,7 @@ organizations:
   url: https://www.leeds.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: the website for the MSc Urban Science and Analytics at the University of Leeds
 
 # Interests to show in About widget
 interests:
@@ -23,9 +23,9 @@ interests:
 - Saving the World
 
 # Education to show in About widget
-# education:
- # courses:
-  #- course: PhD in Artificial Intelligence
+education:
+ courses:
+  - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
