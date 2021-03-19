@@ -1,7 +1,7 @@
 ---
 title: About
 summary: About the UDS @ Leeds course
-date: "2018-06-28T00:00:00Z"
+date: "2021-03-19T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
