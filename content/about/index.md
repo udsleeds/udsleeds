@@ -27,7 +27,7 @@ Researchers at the University of Leeds are finding novel data-driven solutions t
 <ul> 
 <li> Fieldtrips in an urban context will allow you to observe first-hand how data science can be used to create and shape urban policy, and how policies in turn impact urban systems and processes. </li>
 <li>You will work closely with external organisations and stakeholders, through co-development of creative solutions to urban problems.</li>
-<li>You will benefit from exposure to the wide range of urban research ongoing across the University - <a href = "https://environment.leeds.ac.uk/geography" > School of Geography </a>, Institute for Transport Studies, Leeds Institute for Data Analytics and the Alan Turing Institute, the national institute for data science and artificial intelligence.</li>
+<li>You will benefit from exposure to the wide range of urban research ongoing across the University - <a href = "https://environment.leeds.ac.uk/geography" target = "_blank" > School of Geography </a>,  <a href = "https://environment.leeds.ac.uk/transport" target = "_blank" > Institute for Transport Studies </a>,  <a href = "https://lida.leeds.ac.uk/" target = "_blank" > Leeds Institute for Data Analytics </a> and the  <a href = "https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations/university-leeds" target = "_blank" > Alan Turing Institute </a>, the national institute for data science and artificial intelligence.</li>
 <li>A new seminar series featuring urban researchers and practitioners will consolidate a wider network of urban data scientists and policymakers and provide you with direct routes to the latest research, trends, and opportunities.</li>
 </ul>
   
