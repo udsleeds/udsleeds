@@ -1,7 +1,7 @@
 ---
 title: Programming
 date: 2019-05-05
-weight = 3
+weight: 3
 type: book
 ---
 
