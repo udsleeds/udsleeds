@@ -1,7 +1,7 @@
 ---
 title: Geodemographics and Neighbourhood Analysis
 date: 2019-05-05
-weight: 7
+weight: 8
 type: book
 ---
 
