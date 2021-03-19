@@ -6,6 +6,7 @@
 title: UDS @ Leeds
 baseurl: 'https://udsleeds.netlify.app/' 
 copyright: '2021 Vikki Houlden'
+theme: hugo-academic/wowchemy
 
 ############################
 ## LANGUAGE
