@@ -10,3 +10,5 @@ type: book
 <b> Credits: </b> 15 <br> 
 <b> Semester: </b> 1 <br> 
 <b> Compulsory: </b> Yes <br>
+<b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/geography/staff/2702/jiaqi-ge" target="_blank">Jiaqi Ge </a> <br>
+
