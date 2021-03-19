@@ -1,5 +1,5 @@
 ---
-title: "Modules
+title: "Modules"
 menu:
   reading:
     parent: Overview
