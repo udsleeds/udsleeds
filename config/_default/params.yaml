@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: 'pastel'
+theme: pastel
 day_night: true
 font: "robotocondensed"
 font_size: L
