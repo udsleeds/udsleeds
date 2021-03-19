@@ -10,3 +10,4 @@ type: book
 <b> Credits: </b> 15 <br> 
 <b> Semester: </b> 1 <br> 
 <b> Compulsory: </b> Yes <br>
+<b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden" target="_blank">Vikki Houlden </a> <br>
