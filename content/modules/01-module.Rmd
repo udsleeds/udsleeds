@@ -9,7 +9,7 @@ output:
     template: ../../pandoc/toc-title_html.template
     toc: false
 menu:
-  reading:
+  modules:
     parent: Modules
     weight: 1
 type: docs
