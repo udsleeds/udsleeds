@@ -10,7 +10,7 @@ output:
     toc: false
 menu:
   modules:
-    parent: Modules
+    parent: Module Overview
     weight: 1
 type: docs
 weight: 1
