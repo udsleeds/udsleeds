@@ -14,3 +14,4 @@ header:
   image: ""
 ---
 Welcome to the Timetable page!
+When more infomation is available on Schedules, it will appear here.
