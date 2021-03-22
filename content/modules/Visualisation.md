@@ -2,7 +2,7 @@
 title: Geographic Data Visualisation & Analysis 
 date: 2019-05-05
 weight: 4
-type: book
+type: docs
 ---
 
 <b> Module Code: </b> GEOG5042M <br>
