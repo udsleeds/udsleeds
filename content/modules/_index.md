@@ -20,6 +20,6 @@ Find all the information you need on the MSc Modules here
 
 <style>
 footer wrap{
-visibility : hidden;
+diaplay : false;
 }
 </style>
