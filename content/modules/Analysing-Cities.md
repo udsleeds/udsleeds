@@ -3,7 +3,6 @@ title: Analysing Cities
 date: 2019-05-05
 weight: 1
 type: book
-footer: false
 
 ---
 
@@ -13,5 +12,11 @@ footer: false
 <b> Semester: </b> 1 <br> 
 <b> Compulsory: </b> Yes <br>
 <b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/geography/staff/2702/jiaqi-ge" target="_blank">Jiaqi Ge </a> <br>
+  
+<style>
+ subfooter {
+   display: none;
+ }
+</style>
 
 
