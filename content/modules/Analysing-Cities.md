@@ -12,3 +12,9 @@ type: book
 <b> Compulsory: </b> Yes <br>
 <b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/geography/staff/2702/jiaqi-ge" target="_blank">Jiaqi Ge </a> <br>
 
+
+<style>
+ footer {
+   display: none;
+ }
+</style>
