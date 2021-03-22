@@ -18,9 +18,5 @@ weight: 1
 
 Find all the information you need on the MSc Modules here
 
-<style>
- footer {
-   display: none;
- }
-</style>
+
 
