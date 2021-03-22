@@ -3,6 +3,12 @@ title: Analysing Cities
 date: 2019-05-05
 weight: 1
 type: book
+<style>
+ footer {
+   display: none;
+ }
+</style>
+
 ---
 
 <b> Module Code: </b> GEOG5410M <br>
@@ -13,8 +19,3 @@ type: book
 <b> Course Leader: <b/> <a href="https://environment.leeds.ac.uk/geography/staff/2702/jiaqi-ge" target="_blank">Jiaqi Ge </a> <br>
 
 
-<style>
- footer {
-   display: none;
- }
-</style>
