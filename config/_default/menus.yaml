@@ -16,13 +16,12 @@ main:
   - name: Reading
     url: /reading
     weight: 40
-
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Labs
+    url: /labs
+    weight: 50
+  - name: Homework
+    url: /homework
+    weight: 60
 
 modules:
   - name: Overview
@@ -33,5 +32,13 @@ timetable:
     weight: 1
 
 reading:
+  - name: Overview
+    weight: 1
+
+labs:
+  - name: Overview
+    weight: 1
+
+homework:
   - name: Overview
     weight: 1
