@@ -15,7 +15,7 @@ lessons:
   - title: "Statistics"
     date: "Week 3"
     homework: "03-homework"
-    class: "03-labs"
+    labs: "03-labs"
     reading: "03-reading"
 
   - title: "Regression"
