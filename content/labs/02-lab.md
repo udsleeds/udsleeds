@@ -1,5 +1,5 @@
 ---
-title: Lab 2: Data Wrangling
+title: 2: Data Wrangling
 date: 2019-05-05
 weight: 2
 type: book
