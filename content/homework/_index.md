@@ -1,10 +1,10 @@
 ---
 # Page title
-title: Homework for Sessions
+title: Homework
 
 
 # Page summary for search engines.
-summary: UDS Homeowork 
+summary: Homework
 
 # Date page published
 date: 2020-03-19
