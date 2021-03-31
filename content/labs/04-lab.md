@@ -1,5 +1,5 @@
 ---
-title: Lab 4
+title: Lab 4: Regression
 date: 2019-05-05
 weight: 4
 type: book
