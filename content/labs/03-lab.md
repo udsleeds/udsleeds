@@ -1,7 +1,7 @@
 ---
 title: Lab 3
 date: 2019-05-05
-weight: 1
+weight: 3
 type: book
 
 ---
