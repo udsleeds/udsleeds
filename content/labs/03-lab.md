@@ -1,5 +1,5 @@
 ---
-title: 3: Statistics
+title: 3. Statistics
 date: 2019-05-05
 weight: 3
 type: book
