@@ -1,0 +1,61 @@
+lessons:
+
+  - title: "Introduction"
+    date: "Week 1"
+    homework: "01-homework"
+    class: "01-class"
+    reading: "01-reading"
+
+  - title: "Data fundamentals"
+    date: "Week 2"
+    homework: "02-homework"
+    class: "02-class"
+    reading: "02-reading"
+
+  - title: "Visualization fundamentals"
+    date: "Week 3"
+    homework: "03-homework"
+    class: "03-class"
+    reading: "03-reading"
+
+  - title: "Visualization for exploratory data analysis"
+    date: "Week 4"
+    homework: "04-homework"
+    class: "04-labs"
+    reading: "04-reading"
+
+  - title: "Visualization for exploratory geospatial data analysis"
+    date: "Week 5"
+    # homework: "05-homework"
+    # class: "05-labs"
+    # reading: "05-reading"
+
+  - title: "Visualization for model building 1"
+    date: "Week 6"
+    # homework: "06-homework"
+    # class: "06-labs"
+    # reading: "06-reading"
+
+  - title: "Visualization for model building 2"
+    date: "Week 7"
+    # homework: "07-homework"
+    # class: "07-labs"
+    # reading: "07-reading"
+
+  - title: "Visualization for uncertainty analysis"
+    date: "Week 8"
+    # homework: "08-homework"
+    # class: "08-labs"
+    # reading: "08-reading"
+
+  # - title: "Visualization for data storytelling"
+  #   date: "Week 9"
+  #   homework: "09-homework"
+  #   class: "09-labs"
+  #   reading: "09-reading"
+  
+    # - title: "Visualization for data storytelling"
+  #   date: "Week 10"
+  #   homework: "10-homework"
+  #   class: "10-labs"
+  #   reading: "10-reading"
