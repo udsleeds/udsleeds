@@ -1,17 +1,14 @@
----
-title: Timetables
-summary: Information on course timetables
-date: "2018-06-28T00:00:00Z"
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
 ---
-Welcome to the Timetable page!
-When more infomation is available on Schedules, it will appear here.
+title: "Timetable"
+slug: timetable
+---
+
+
+Each session has three sections.
+
+- <i class="fas fa-book-reader"></i> [**Reading**](/reading/):  Reading and other reference material.
+- <i class="fas fa-chalkboard-teacher"></i> [**Class**](/labs/): Main content -- a mix of ideas/theory and worked examples.
+- <i class="fas fa-laptop-code"></i> [**Homework**](/homework/): Homework activity to complete after having worked through the main class content.
+
+---
