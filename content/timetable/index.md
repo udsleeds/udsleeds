@@ -12,3 +12,4 @@ Each session has three sections.
 - <i class="fas fa-laptop-code"></i> [**Homework**](/homework/): Homework activity to complete after having worked through the main class content.
 
 ---
+{{< schedule >}}
