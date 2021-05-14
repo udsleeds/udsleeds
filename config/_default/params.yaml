@@ -26,7 +26,7 @@ leader:
   name: Vikki Houlden
   email: v.houlden@leeds.ac.uk
   url:  "https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden"
-  twitter: vikkihouldenphd
+  twitter: vikkimaps
   github: vikkimaps
   office: Manton Building
   contact_policy: >-
@@ -56,7 +56,7 @@ school:
 sharing_image: "leedslogo.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "vikkihouldenphd"
+twitter: "vikkimaps"
 
 # Site header
 
