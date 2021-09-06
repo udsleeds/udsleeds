@@ -8,7 +8,7 @@ weight: 10
 title: "Urban Data Science @ Leeds"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media: leedslogo2.png
+hero_media: LogoBlue.png
 
 design:
   background:
